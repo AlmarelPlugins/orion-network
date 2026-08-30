@@ -2,15 +2,15 @@
   "lite": {
     "latestVersion": "0.1.0",
     "minSupportedVersion": "0.1.0",
-    "downloadUrl": "PLACEHOLDER"
+    "downloadUrl": "https://discord.gg/5WmnrBXY9J"
   },
   "full": {
-    "latestVersion": "0.1.1",
+    "latestVersion": "0.1.0",
     "minSupportedVersion": "0.1.0",
-    "downloadUrl": "PLACEHOLDER"
+    "downloadUrl": "https://discord.gg/5WmnrBXY9J"
   },
   "promotion": {
     "enabled": false,
-    "url": "PLACEHOLDER"
+    "url": "https://discord.gg/5WmnrBXY9J"
   }
 }
